@@ -1,0 +1,19 @@
+{
+  "name": "sortingbyamar",
+  "version": "1.0.1",
+  "description": "Any array can be sorted with this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amarjyotipatra/sortingByAmar.git"
+  },
+  "author": "amarjyoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarjyotipatra/sortingByAmar/issues"
+  },
+  "homepage": "https://github.com/amarjyotipatra/sortingByAmar#readme"
+}
